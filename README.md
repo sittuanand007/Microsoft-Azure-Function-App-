@@ -1,5 +1,7 @@
 # Microsoft-Azure-Function-App-
-Microsoft Azure Function Python Works
+
+![alt text](https://miro.medium.com/max/882/1*I39WMuYsU_2BgGAgAePCuw.png)
+
 
 
 Building a Timer Trigger with the help of Microsot Azure Function App. 
