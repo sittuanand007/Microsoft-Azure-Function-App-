@@ -1,2 +1,0 @@
-# pythonbasic
-Newbie to programming.
